@@ -11,6 +11,7 @@ PATH = 'content'
 ARTICLE_PATHS = ['articles']
 STATIC_PATHS = ['img', 'pdf']
 PAGE_PATHS = ['pages']
+DISPLAY_PAGES_ON_MENU = True
 
 TIMEZONE = 'America/Detroit'
 
