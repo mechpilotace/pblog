@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Alexander Gonser</title><link href="https://agonser.xyz/" rel="alternate"></link><link href="https://agonser.xyz/feeds/all.atom.xml" rel="self"></link><id>https://agonser.xyz/</id><updated>2020-01-20T17:25:00-05:00</updated><entry><title>Site Update &amp; Happy 2020</title><link href="https://agonser.xyz/articles/2020/01/20/site-update-2020/" rel="alternate"></link><published>2020-01-20T17:25:00-05:00</published><updated>2020-01-20T17:25:00-05:00</updated><author><name>Alexander Gonser</name></author><id>tag:agonser.xyz,2020-01-20:/articles/2020/01/20/site-update-2020/</id><summary type="html">&lt;h2&gt;Happy belated New Years!!&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Alexander Gonser</title><link href="https://agonser.xyz/" rel="alternate"></link><link href="https://agonser.xyz/feeds/all.atom.xml" rel="self"></link><id>https://agonser.xyz/</id><updated>2020-02-01T01:21:00-05:00</updated><entry><title>2020 Book Club</title><link href="https://agonser.xyz/articles/2020/02/01/2020-book-club/" rel="alternate"></link><published>2020-02-01T01:21:00-05:00</published><updated>2020-02-01T01:21:00-05:00</updated><author><name>Alexander Gonser</name></author><id>tag:agonser.xyz,2020-02-01:/articles/2020/02/01/2020-book-club/</id><summary type="html">&lt;h2&gt;Book Reading Challenge&lt;/h2&gt;
+&lt;p&gt;This year, one of my resolution is to read more. This has culmunatied into the following "plan" or "challenge". That is to say, I am going to read a book a month for the rest of the year. This started with picking up of Jordan B. Peterson's …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Book Reading Challenge&lt;/h2&gt;
+&lt;p&gt;This year, one of my resolution is to read more. This has culmunatied into the following "plan" or "challenge". That is to say, I am going to read a book a month for the rest of the year. This started with picking up of Jordan B. Peterson's book &lt;em&gt;12 Rules for Life: An Antidote to Chaos&lt;/em&gt;. Which I was able to finish under the wire to complete a book for January. I would like to stick to "non technical" pieces for this, but as I am working on some certifications I figure that sprinkling some in here or there will help me to get through them.
+I am also documenting it here so that I can keep myself honest. &lt;/p&gt;
+&lt;p&gt;Here be the list:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;January: 12 Rules for Life: An Antidote to Chaos - Jordan B. Peterson&lt;/li&gt;
+&lt;li&gt;Feburary: Unix and Linux System Administration Handbook, Fifth Ed. - Various [1135 pages or 40 a day]&lt;/li&gt;
+&lt;li&gt;March: Unsouled: Cradle Volume One - Will Wight [202 pages or 7 a day]&lt;/li&gt;
+&lt;li&gt;April: The Sailor Who Fell From Grace with the Sea - Yukio Mishima [100  pages or 4 a day]&lt;/li&gt;
+&lt;li&gt;May: Vacationland - John Hodgman [150  pages or 11 a day]&lt;/li&gt;
+&lt;li&gt;June: Antifragile - Nassim Nicholas Taleb [653 pages or 22 a day]&lt;/li&gt;
+&lt;li&gt;July: Bakemonogatari Part 1 -  Nisiosin [300  pages or 10 a day]&lt;/li&gt;
+&lt;li&gt;August: Boogiepop &amp;amp; Others - Kouhei Kadono (Or whatever the first book is in the series) [174 pages or 6 a day]&lt;/li&gt;
+&lt;li&gt;September: The Eye of the Dragon - Stephen King [380 pages or 13 a day]&lt;/li&gt;
+&lt;li&gt;October: I, Robot - Isaac Asimov [247 pages or 9 a day]&lt;/li&gt;
+&lt;li&gt;November: The Illustrated Man - Ray Bradbury [243 pages or 9 a day]&lt;/li&gt;
+&lt;li&gt;December: The Subtle art of not giving a F*ck - Mark Manson [115 pages or 4 a day]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These can be subject to change as some of these books are parts of series and as I build the habbit of reading more. I may add some of the Michael W. Lucas IT Mastery series in here to suppliment some of the month's or others as I hope to "cruze" through the list. As you can see with the break down I added with the pages per day, These should easily be do able and I will probably end up reading more and one a month.  &lt;/p&gt;
+&lt;p&gt;Will probably do a monthly check in, to see how this list is changing then a recap at the end of the year.  &lt;/p&gt;</content><category term="Blog"></category><category term="books"></category><category term="goals"></category></entry><entry><title>Site Update &amp; Happy 2020</title><link href="https://agonser.xyz/articles/2020/01/20/site-update-2020/" rel="alternate"></link><published>2020-01-20T17:25:00-05:00</published><updated>2020-01-20T17:25:00-05:00</updated><author><name>Alexander Gonser</name></author><id>tag:agonser.xyz,2020-01-20:/articles/2020/01/20/site-update-2020/</id><summary type="html">&lt;h2&gt;Happy belated New Years!!&lt;/h2&gt;
 &lt;p&gt;I know that it's been a while since I updated the site but I didn't want to add a new post until I had substantial work done. 
 For one, I wanted to redo the site from being made completely static by hand to a staticly assigned …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Happy belated New Years!!&lt;/h2&gt;
 &lt;p&gt;I know that it's been a while since I updated the site but I didn't want to add a new post until I had substantial work done. 
